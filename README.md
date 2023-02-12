@@ -2,7 +2,7 @@
 
 
 
-Hola, mi nombre es [Tu Nombre] y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
+Hola, mi nombre es Bryan Murillo y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
 
 
@@ -10,7 +10,7 @@ Hola, mi nombre es [Tu Nombre] y este es mi sitio en GitHub Pages. Este sitio es
 
 
 
-Soy un [profesión o descripción breve de ti mismo]. Me apasiona [tus intereses o pasiones] y estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
+Soy un universitario del universidad de Guayquil. Me apasiona programar y estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
 
 
 
