@@ -10,7 +10,7 @@ Hola, mi nombre es Bryan Murillo y este es mi sitio en GitHub Pages. Este sitio 
 
 
 
-Soy un universitario del universidad de Guayquil. Me apasiona programar y estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
+Soy un universitario del Universidad de Guayquil. Me apasiona programar y estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
 
 
 
